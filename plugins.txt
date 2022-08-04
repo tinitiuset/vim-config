@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+El siguiente archivo contiene una sencilla guía sobre como añadir plugins al
+editor de texto Vim
+
+Los plugins que cargan siempre deberán estár en el directorio
+"~/.vim/pack/vendor/start"
+
+Los plugins que se quieran cargar selectivamente una vez abierto vim deberán
+estar en el directorio
+"~/.vim/pack/vendor/opt"
+
+Para cargar un plugin opcional llamado "foo"
+:packadd foo
+
+Se clonarán los repositorios de los plugins directamente en las carpetas
+"start" y "opt"
+
+Se recomienda crear una estructura de carpetas por cada plugin en vez de usar
+una carpeta "vendor" genérica para varios plugins
+
+Listado de plugins interesantes:
+
+Funcionales:
+	NERDTree: https://github.com/preservim/nerdtree
+	FloaTerm: https://github.com/voldikss/vim-floaterm
+	Vim Airline: https://github.com/vim-airline/vim-airline
+	Tagbar: https://github.com/preservim/tagbar
+
+Visuales:
+	Darcula: https://github.com/doums/darcula
+	Vim Airline Themes: https://github.com/vim-airline/vim-airline-themes
+-------------------------------------------------------------------------------
