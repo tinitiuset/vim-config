@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------
+"%" Mover el cursor al correspondiente paréntesis, llave o corchete.
+
+"0" Mover el cursor al inicio de la línea.
+"$" Mover el cursor al final de la línea.
+
+"*" Buscar la siguiente ocurrencia de la palabra sobre la que esté el cursor.
+"#" Buscar la anterior ocurrencia de la palabra sobre la que esté el cursor.
+
+"gg" Mover el cursor al inicio del archivo.
+"G"  Mover el cursor al final del archivo.
+"xG" Mover el cursor a la línea x.
+
+"/" Buscar una cadena de texto, "n" y "N" para navegar por las coincidencias.
+
+"o" crear una nueva línea inferior y cambiar a modo INSERT.
+"O" crear una nueva línea superior y cambiar a modo INSERT.
+
+"x" Borrar el carácter actual.
+"X" Borrar el carácter a la izquierda.
+
+"r" Intercambia el carácter actual por el siguiente pulsado.
+
+"." Repite el último comando utilizado.
+
+"u" Deshacer.
+"ctrl + R" Rehacer.
+
+"v" Entrar a modo visual.
+
+":w" Guardar.
+":q" Salir.
+":q!" Salir sin guardar.
+--------------------------------------------------------------------------------
