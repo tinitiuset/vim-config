@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------
+Para cambiar el foco entre ventanas de Vim "Ctrl + w", "w" o "flechas de
+teclado" en caso de tener múltiples ventanas.
+
+Cuando se crea un archivo con vim y se guarda, este no aparecerá reflejado en
+NERDTree a menos que se pulse "r" en la instancia de NERDTree para refrescar el
+árbol.
+--------------------------------------------------------------------------------
