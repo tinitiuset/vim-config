@@ -25,6 +25,7 @@ Funcionales:
 	FloaTerm: https://github.com/voldikss/vim-floaterm
 	Vim Airline: https://github.com/vim-airline/vim-airline
 	Tagbar: https://github.com/preservim/tagbar
+	42 Header: https://github.com/42Paris/42header
 
 Visuales:
 	Darcula: https://github.com/doums/darcula
